@@ -88,6 +88,6 @@ weather database:
 ## Repo & Video
 ---------------
 
-Our Python code is uploaded to:
+Our Python code is uploaded to:https://github.com/chloe-rachel-csca20/CSCA20-Project/blob/master/weather_check.py
 
 And out video is at:
