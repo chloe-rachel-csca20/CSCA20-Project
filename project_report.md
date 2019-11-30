@@ -69,7 +69,7 @@ Although we successed to get features in the project, we were facing a really bi
 
 Though our team  only has two members, we gathered together and decided to keep our first plan in order to make the project a little bit more ambitious.
 
-One of the member emailed TA for siggestions, we got some very helpful advices. However, we still could not get the function work like we want it to be. Eventually, we reached out again to Brain. Lcuky for us, he gave us a key suggestion and with his idea we got the (temp_avg_temp) ad (get_avg_rain) function work.
+One of the member emailed TA for siggestions, we got some very helpful advices. However, we still could not get the function work like we want it to be. Eventually, we reached out again to Brain. Lucky for us, he gave us a key suggestion of indexing each sublist inside the database list and with his idea we got the (temp_avg_temp) ad (get_avg_rain) function to run successfully.
 
 Our tutorial is on Wednesday, so we have right amount of time to finish our project as we planned.
 
@@ -80,8 +80,8 @@ Our tutorial is on Wednesday, so we have right amount of time to finish our proj
 lab8:
 - https://uoft.me/a20-lab8
 
-- Lines are *not* our work.
-- Lines were implemented by us, but designed by CSCA20's lab8 creator.
+- Lines 1， 6-23， 211-221 are *not* our work.
+- Lines 26-54， 96-118 were implemented by us, but designed by CSCA20's lab8 creator.
 
 weather database:
 - https://climate.weather.gc.ca/climate_data/daily_data_e.html?StationID=10666&timeframe=2&StartYear=1840&EndYear=2019&Day=17&Year=2019&Month=10#
