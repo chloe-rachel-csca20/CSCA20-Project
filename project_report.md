@@ -92,3 +92,4 @@ Our Python code is uploaded to:
 https://github.com/chloe-rachel-csca20/CSCA20-Project
 
 And out video is at:
+https://youtu.be/JXYdvMXte74
