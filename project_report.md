@@ -67,7 +67,7 @@ Although we were able to write code for most of the functions, we were strugglin
 
 ### Final Week Report
 
-Though our team has only two members, we gathered together and decided to keep as much of our first plan in order to make the project a little bit more ambitious.
+Though our team has only two members, we gathered together and decided to keep as much of our first plan in order to maintain a higher level of ambition for our project.
 
 One of the member emailed TA for suggestions, we got some very helpful information on iterating over a list. However, we still could not get the function work like we want it to be. Eventually, we reached out to professor Brain and asked for further help. Luckily, he gave us a key suggestion of indexing each sublist inside the database list and we were able to get the (avg_temp) and (avg_rain) function to run successfully.
 
