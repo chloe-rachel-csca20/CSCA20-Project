@@ -63,13 +63,13 @@ What is your backup plan if things don’t work out as planned?
 
 After planning, we wrote down all the requirments and comments for our project so that it could be easier to read and think. Together, we boakdown our project step by step and we also finished both (get_temp) and (get_rain) function smoothly. 
 
-Although we successed to get features in the project, we were facing a really big challenge which was we had no idea how to do the (get_avg_temp) and (get_avg_rain) function. It seems like we need to conduct the backup plan, but meanwhile, we still tried to perform the original thought.
+Although we were able to write code for most of the functions, we were struggling on writing codes for the (get_avg_temp) and (get_avg_rain) functions. We decided to move on to the backup plan by not implementing the graphing options, and asking for help from TAs and professor Brian on coding for the two functions.
 
 ### Final Week Report
 
-Though our team  only has two members, we gathered together and decided to keep our first plan in order to make the project a little bit more ambitious.
+Though our team has only two members, we gathered together and decided to keep as much of our first plan in order to make the project a little bit more ambitious.
 
-One of the member emailed TA for suggestions, we got some very helpful information on iterating over a list. However, we still could not get the function work like we want it to be. Eventually, we reached out to professor Brain and asked for further help. Lucky for us, he gave us a key suggestion of indexing each sublist inside the database list and we were able to get the (avg_temp) and (avg_rain) function to run successfully.
+One of the member emailed TA for suggestions, we got some very helpful information on iterating over a list. However, we still could not get the function work like we want it to be. Eventually, we reached out to professor Brain and asked for further help. Luckily, he gave us a key suggestion of indexing each sublist inside the database list and we were able to get the (avg_temp) and (avg_rain) function to run successfully.
 
 We were able to complete out project prior to our Wednesday tutorial as planned.
 
