@@ -5,16 +5,16 @@
 --------
 
 **Team Member A** 
-First Name: Kaiwen
-Last Name:Niu
-Student Number:1005985043
-UofT E-mail Address:kaiwen.niu@mail.utoronto.ca  
+First Name: Kaiwen,
+Last Name:Niu,
+Student Number:1005985043,
+UofT E-mail Address:kaiwen.niu@mail.utoronto.ca,
 
 **Team Member B**  
-First Name: Ruisi Rachel
-Last Name: Li
-Student Number:1005508372
-UofT E-mail Address: ruisi.li@mail.utoronto.ca  
+First Name: Ruisi Rachel,
+Last Name: Li,
+Student Number:1005508372,
+UofT E-mail Address: ruisi.li@mail.utoronto.ca
 
 ## Project Plan
 
@@ -69,12 +69,11 @@ Although we successed to get features in the project, we were facing a really bi
 
 Though our team  only has two members, we gathered together and decided to keep our first plan in order to make the project a little bit more ambitious.
 
-One of the member emailed TA for siggestions, we got some very helpful advices. However, we still could not get the function work like we want it to be. Eventually, we reached out again to Brain. Lucky for us, he gave us a key suggestion of indexing each sublist inside the database list and with his idea we got the (temp_avg_temp) ad (get_avg_rain) function to run successfully.
+One of the member emailed TA for suggestions, we got some very helpful information on iterating over a list. However, we still could not get the function work like we want it to be. Eventually, we reached out to professor Brain and asked for further help. Lucky for us, he gave us a key suggestion of indexing each sublist inside the database list and we were able to get the (avg_temp) and (avg_rain) function to run successfully.
 
-Our tutorial is on Wednesday, so we have right amount of time to finish our project as we planned.
+We were able to complete out project prior to our Wednesday tutorial as planned.
 
 ## References
-
 -------------
 
 lab8:
@@ -87,7 +86,6 @@ weather database:
 - https://climate.weather.gc.ca/climate_data/daily_data_e.html?StationID=10666&timeframe=2&StartYear=1840&EndYear=2019&Day=17&Year=2019&Month=10#
 
 ## Repo & Video
-
 ---------------
 
 Our Python code is uploaded to:
