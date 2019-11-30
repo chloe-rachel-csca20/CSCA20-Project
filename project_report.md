@@ -63,15 +63,15 @@ What is your backup plan if things don’t work out as planned?
 
 After planning, we wrote down all the requirments and comments for our project so that it could be easier to read and think. Together, we boakdown our project step by step and we also finished both (get_temp) and (get_rain) function smoothly. 
 
-Although we successed to get features in the project, we were facing a really big challenge which was we had no idea how to do the (get_avg_temp) function. It seems like we need to conduct the backup plan, but meanwhile, we still tried to perform the original thought.
+Although we successed to get features in the project, we were facing a really big challenge which was we had no idea how to do the (get_avg_temp) and (get_avg_rain) function. It seems like we need to conduct the backup plan, but meanwhile, we still tried to perform the original thought.
 
 ### Final Week Report
 
 Though our team  only has two members, we gathered together and decided to keep our first plan in order to make the project a little bit more ambitious.
 
-One of the member emailed TA for siggestions, we got some very helpful advices. However, we still could not get the function work like we want it to be. Eventually, we reached out again to Brain. Lcuky for us, he gave us a key suggestion and with that idea we got the (temp_avg_temp) function work.
+One of the member emailed TA for siggestions, we got some very helpful advices. However, we still could not get the function work like we want it to be. Eventually, we reached out again to Brain. Lcuky for us, he gave us a key suggestion and with his idea we got the (temp_avg_temp) ad (get_avg_rain) function work.
 
-Our tutorial is on Wednesday, we have right amount of time to finish our project as we planned.
+Our tutorial is on Wednesday, so we have right amount of time to finish our project as we planned.
 
 ## References
 
